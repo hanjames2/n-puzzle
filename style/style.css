@@ -170,8 +170,7 @@ button {
   border-color: #ffffff;
 }
 
-/* .js-focus-visible button:focus:not(.focus-visible) {
-  box-shadow: none;
+/* arfahhanum
 } */
 
 .restart-button:hover, .shuffle-button:hover, .solve-button:hover {
